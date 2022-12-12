@@ -1,0 +1,26 @@
+site_name: SONAR.help
+
+theme:
+    name: null
+    custom_dir: theme
+    static_templates:
+        - 404.html
+    locale: ru
+    highlightjs: true
+    katex: true
+    include_search_page: true
+    search_index_only: false
+    include_homepage_in_sidebar: false
+    prev_next_buttons_location: bottom
+    navigation_depth: 3
+    titles_only: false
+    sticky_navigation: false
+    collapse_navigation: true
+    logo: null
+
+plugins:
+    - search:
+            lang: ["ru", "en"]
+            indexing: 'full'
+    - literate-nav:
+            nav_file: index.md
