@@ -1,3 +1,6 @@
 [submodule "toolbox"]
 	path = sonar_m
 	url = git@github.com:gorbatschow/Sonar.m.git
+[submodule "mkdocs/theme"]
+	path = mkdocs/theme
+	url = git@github.com:gorbatschow/ReadTheTheme.git
