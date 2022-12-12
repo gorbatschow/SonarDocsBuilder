@@ -7,19 +7,19 @@
 
 ![@mdt_print_equation_boxed](include/sound_absorption_sea_thorp.tex)
 
-![@mdt_print_markdown](include/sound_absorption_sea_thorp_args.md)
+![@mdt_print_markdown](include/sound_absorption_sea_thorp_args.ru.md)
 
 - Коэффициент $1.0936$ выполняет преобразование из $дБ/килоярд$ в $дБ/км$. 
 
 ## Программная реализация
 
-![@mdt_print_code]($/sonar-m/toolbox/sound_absorption_sea_thorp.m)
+![@mdt_print_code]($/sonar_m/toolbox/sound_absorption/sound_absorption_sea_thorp.m)
 
 ## Вычислительные примеры
 
-![@mdt_eval_code]($/sonar-m/example/sound_absorption_sea_thorp_ex_1.m)
+![@mdt_eval_code]($/sonar_m/example/sound_absorption/sound_absorption_sea_thorp_ex_1.m)
 
-![@mdt_eval_code]($/sonar-m/example/sound_absorption_sea_thorp_ex_2.m)
+![@mdt_eval_code]($/sonar_m/example/sound_absorption/sound_absorption_sea_thorp_ex_2.m)
 
 ## Использованная литература
 

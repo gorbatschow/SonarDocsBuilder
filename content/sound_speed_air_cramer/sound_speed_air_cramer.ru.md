@@ -4,12 +4,10 @@
 
 ## Программная реализация
 
-![@mdt_print_code]($/sonar-m/toolbox/sound_speed_air_cramer.m)
+![@mdt_print_code]($/sonar_m/toolbox/sound_speed/sound_speed_air_cramer.m)
 
 ## Вычислительные примеры
 
-![@mdt_eval_code]($/sonar-m/example/sound_speed_air_cramer_ex_1.m)
-
-![@mdt_eval_code]($/sonar-m/example/sound_speed_air_cramer_ex_2.m)
+![@mdt_eval_code]($/sonar_m/example/sound_speed/sound_speed_air_cramer_ex_1.m)
 
 ## Использованная литература

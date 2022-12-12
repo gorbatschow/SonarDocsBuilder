@@ -7,7 +7,7 @@
 
 ![@mdt_print_equation_boxed](include/sound_absorption_sea_francois.tex)
 
-![@mdt_print_markdown](include/sound_absorption_sea_francois_args.md)
+![@mdt_print_markdown](include/sound_absorption_sea_francois_args.ru.md)
 
 ![@mdt_print_equation](include/sound_absorption_sea_francois_1.tex)
 ![@mdt_print_equation](include/sound_absorption_sea_francois_2.tex)
@@ -18,15 +18,15 @@
 ![@mdt_print_equation](include/sound_absorption_sea_francois_8.tex)
 ![@mdt_print_equation](include/sound_speed_sea_francois.tex)
 
-![@mdt_print_markdown](include/sound_absorption_sea_francois_vars.md)
+![@mdt_print_markdown](include/sound_absorption_sea_francois_vars.ru.md)
 
 ## Программная реализация
 
-![@mdt_print_code]($/sonar-m/toolbox/sound_absorption_sea_francois.m)
+![@mdt_print_code]($/sonar_m/toolbox/sound_absorption/sound_absorption_sea_francois.m)
 
 ## Вычислительные примеры
 
-![@mdt_eval_code]($/sonar-m/example/sound_absorption_sea_francois_ex_1.m)
+![@mdt_eval_code]($/sonar_m/example/sound_absorption/sound_absorption_sea_francois_ex_1.m)
 
 ## Использованная литература
 
