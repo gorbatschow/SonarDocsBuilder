@@ -17,7 +17,7 @@
 
 ![@mdt_print_code]($/sonar_m/toolbox/sound_speed/sound_speed_sea_delgrosso.m)
 
-## Cimputational examples
+## Computational examples
 
 ![@mdt_eval_code]($/sonar_m/example/sound_speed/sound_speed_sea_delgrosso_ex_1.m)
 
