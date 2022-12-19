@@ -1,4 +1,5 @@
 site_name: SONAR.m/docs
+footer_text: "Made with MkDocs using ReadTheDocsTheme"
 
 theme:
     name: null
