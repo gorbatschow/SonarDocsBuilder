@@ -4,3 +4,6 @@
 [submodule "mkdocs/theme"]
 	path = mkdocs/theme
 	url = git@github.com:gorbatschow/ReadTheTheme.git
+[submodule "mkdocs/site"]
+	path = mkdocs/site
+	url = git@github.com:gorbatschow/SonarDocs.git
