@@ -10,8 +10,8 @@ function [root, lang] = init_env()
 
     global sonarhelp_lang sonarm_lang;
     if isempty(sonarhelp_lang)
-        sonarhelp_lang = 'ru';
-        sonarm_lang = 'ru';
+        sonarhelp_lang = 'en';
+        sonarm_lang = 'en';
     end
     lang = sonarhelp_lang;
 end
