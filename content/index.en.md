@@ -9,13 +9,13 @@
     * [Lubbers & Graaff B1](sound_speed_water_lubbers_b1.en.md)
     * [Lubbers & Graaff C1](sound_speed_water_lubbers_c1.en.md)
     * [Belogolskii & Sekoyan equation](sound_speed_water_belogolskii.en.md)
-* Sound speed in sea water
+* Sound speed in sea
     * [Coppens equation](sound_speed_sea_coppens.en.md)
     * [Mackenzie equation](sound_speed_sea_mackenzie.en.md)
     * [Del Grosso equation](sound_speed_sea_delgrosso.en.md)
     * [Chen & Millero equation (UNESCO)](sound_speed_sea_unesco.en.md)
     * [Leroy et al. equation (NPL)](sound_speed_sea_npl.en.md)
-* Sound absorption in sea water
+* Sound absorption in sea
     * [Thorp equation](sound_absorption_sea_thorp.en.md)
     * [Francois & Garrison equation](sound_absorption_sea_francois.en.md)
     * [Fisher & Simmons equation](sound_absorption_sea_fisher.en.md)
