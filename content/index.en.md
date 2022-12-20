@@ -5,7 +5,7 @@
     * [Bilaniuk & Wong 36 point euqation](sound_speed_water_bilaniuk_36.en.md)
     * [Bilaniuk & Wong 112 point euqation](sound_speed_water_bilaniuk_112.en.md)
     * [Bilaniuk & Wong 148 point euqation](sound_speed_water_bilaniuk_148.en.md)
-    * [Marczak Equation](sound_speed_water_marczak.md)
+    * [Marczak Equation](sound_speed_water_marczak.en.md)
     * [Lubbers & Graaff B1](sound_speed_water_lubbers_b1.en.md)
     * [Lubbers & Graaff C1](sound_speed_water_lubbers_c1.en.md)
     * [Belogolskii & Sekoyan equation](sound_speed_water_belogolskii.en.md)
