@@ -1,6 +1,5 @@
 function status = build_from_template(src_file, root, dst_path)
     [~,src_name] = fileparts(src_file);
-    %[~,src_name] = fileparts(src_name);
 
     status = struct( ...
         'root', root, ...
