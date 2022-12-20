@@ -6,23 +6,23 @@
 
 ## Математическое определение
 
-![@mdt_print_equation_boxed](include/sound_speed_sea_coppens.tex)
+![@mmd_print_equation_boxed](include/sound_speed_sea_coppens.tex)
 
-![@mdt_print_markdown](include/sound_speed_sea_coppens_args.ru.md)
+![@mmd_print_markdown](include/sound_speed_sea_coppens_args.ru.md)
 
-![@mdt_print_equation](include/sound_speed_sea_coppens_1.tex)
+![@mmd_print_equation](include/sound_speed_sea_coppens_1.tex)
 
 ## Программная реализация
 
-![@mdt_print_code]($/sonar_m/toolbox/sound_speed/sound_speed_sea_coppens.m)
+![@mmd_print_code]($/sonar_m/toolbox/sound_speed/sound_speed_sea_coppens.m)
 
 ## Вычислительные примеры
 
-![@mdt_eval_code]($/sonar_m/example/sound_speed/sound_speed_sea_coppens_ex_1.m)
+![@mmd_eval_code]($/sonar_m/example/sound_speed/sound_speed_sea_coppens_ex_1.m)
 
-![@mdt_eval_code]($/sonar_m/example/sound_speed/sound_speed_sea_coppens_ex_2.m)
+![@mmd_eval_code]($/sonar_m/example/sound_speed/sound_speed_sea_coppens_ex_2.m)
 
 ## Использованная литература
 
-1. ![@mdt_print_reference]($/reference/coppens1981simple.enw)
+1. ![@mmd_print_reference]($/reference/coppens1981simple.enw)
 
