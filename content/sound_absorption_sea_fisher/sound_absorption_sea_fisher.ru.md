@@ -6,30 +6,30 @@
 
 ## Математическое определение
 
-![@mmd_print_equation_boxed](include/sound_absorption_sea_fisher.tex)
+![$mmd_print_equation_boxed](include/sound_absorption_sea_fisher.tex)
 
-![@mmd_print_markdown](include/sound_absorption_sea_fisher_args.ru.md)
+![$mmd_print_markdown](include/sound_absorption_sea_fisher_args.ru.md)
 
-![@mmd_print_equation](include/sound_absorption_sea_fisher_1.tex)
-![@mmd_print_equation](include/sound_absorption_sea_fisher_2.tex)
-![@mmd_print_equation](include/sound_absorption_sea_fisher_3.tex)
-![@mmd_print_equation](include/sound_absorption_sea_fisher_4.tex)
-![@mmd_print_equation](include/sound_absorption_sea_fisher_5.tex)
-![@mmd_print_equation](include/sound_absorption_sea_fisher_6.tex)
-![@mmd_print_equation](include/sound_absorption_sea_fisher_7.tex)
-![@mmd_print_equation](include/sound_absorption_sea_fisher_8.tex)
+![$mmd_print_equation](include/sound_absorption_sea_fisher_1.tex)
+![$mmd_print_equation](include/sound_absorption_sea_fisher_2.tex)
+![$mmd_print_equation](include/sound_absorption_sea_fisher_3.tex)
+![$mmd_print_equation](include/sound_absorption_sea_fisher_4.tex)
+![$mmd_print_equation](include/sound_absorption_sea_fisher_5.tex)
+![$mmd_print_equation](include/sound_absorption_sea_fisher_6.tex)
+![$mmd_print_equation](include/sound_absorption_sea_fisher_7.tex)
+![$mmd_print_equation](include/sound_absorption_sea_fisher_8.tex)
 
-![@mmd_print_markdown](include/sound_absorption_sea_fisher_vars.ru.md)
+![$mmd_print_markdown](include/sound_absorption_sea_fisher_vars.ru.md)
 
 ## Программная реализация
 
-![@mmd_print_code]($/sonar_m/toolbox/sound_absorption/sound_absorption_sea_fisher.m)
+![$mmd_print_code]($/sonar_m/toolbox/sound_absorption/sound_absorption_sea_fisher.m)
 
 ## Вычислительные примеры
 
-![@mmd_eval_code]($/sonar_m/example/sound_absorption/sound_absorption_sea_fisher_ex_1.m)
+![$mmd_eval_code]($/sonar_m/example/sound_absorption/sound_absorption_sea_fisher_ex_1.m)
 
 ## Использованная литература
 
-1. ![@mmd_print_reference]($/reference/fisher1977sound.enw)
-1. ![@mmd_print_reference]($/reference/lyman1940composition.enw)
+1. ![$mmd_print_reference]($/reference/fisher1977sound.enw)
+1. ![$mmd_print_reference]($/reference/lyman1940composition.enw)

@@ -14,7 +14,7 @@ function status = build_from_template(src_file, root, dst_path)
     try
         status.text = fileread(src_file);
     catch
-        error(['@mmd_ERROR: File not found ' src_file]);
+        error(['$mmd_ERROR: File not found ' src_file]);
     end
 
     while(strcmpi(status.text(end), newline))
@@ -33,21 +33,21 @@ function status = build_from_template(src_file, root, dst_path)
         end
         token = tokens(token_idx);
         
-        if strcmpi(token.action, '@mmd_print_equation')
+        if strcmpi(token.action, '$mmd_print_equation')
             status = print_equation(status, token);
-        elseif strcmpi(token.action, '@mmd_print_equation_boxed')
+        elseif strcmpi(token.action, '$mmd_print_equation_boxed')
             status = print_equation(status, token, 'boxed');
-        elseif strcmpi(token.action, '@mmd_print_code')
+        elseif strcmpi(token.action, '$mmd_print_code')
             status = print_code(status, token);
-        elseif strcmpi(token.action, '@mmd_print_markdown')
+        elseif strcmpi(token.action, '$mmd_print_markdown')
             status = print_markdown(status, token);
-        elseif strcmpi(token.action, '@mmd_eval_code')
+        elseif strcmpi(token.action, '$mmd_eval_code')
             status = eval_code(status, token);
-        elseif strcmpi(token.action, '@mmd_print_reference')
+        elseif strcmpi(token.action, '$mmd_print_reference')
             status = print_reference(status, token);
         else
             status = replace_text(status, token, ...
-                '@mmd_ERROR: Bad command'); 
+                '$mmd_ERROR: Bad command'); 
         end
     end
     
@@ -86,7 +86,7 @@ function token_idx = find_mdt_token(tokens)
         if numel(tokens(i).action) < 4
             continue
         end
-        if strcmpi(tokens(i).action(1:4), '@mmd')
+        if strcmpi(tokens(i).action(1:4), '$mmd')
             token_idx = i;
             return
         end
@@ -116,7 +116,7 @@ function status = print_equation(status, token, style)
     
     if read_flag < 0
         status = replace_text(status, token, ...
-            ['@mmd_ERROR: File not found ' fname]); 
+            ['$mmd_ERROR: File not found ' fname]); 
     else
         if strcmpi(style, 'boxed')
             status = replace_text(status, token, ...
@@ -135,7 +135,7 @@ function status = print_code(status, token)
 
     if read_flag < 0
         status = replace_text(status, token, ...
-            ['@mmd_ERROR: File not found ' fname]); 
+            ['$mmd_ERROR: File not found ' fname]); 
     else
         status = replace_text(status, token, ...
             ['```' newline text newline '```']); 
@@ -149,7 +149,7 @@ function status = print_markdown(status, token)
     
     if read_flag < 0
         status = replace_text(status, token, ...
-            ['@mmd_ERROR: File not found ' fname]); 
+            ['$mmd_ERROR: File not found ' fname]); 
     else
         status = replace_text(status, token, text); 
     end
@@ -180,7 +180,7 @@ function status = print_reference(status, token)
 
     if ~entry_ok
         status = replace_text(status, token, ...
-            ['@mmd_ERROR: File not found ' fname]); 
+            ['$mmd_ERROR: File not found ' fname]); 
     else
         status = replace_text(status, token, ref); 
     end
@@ -203,7 +203,7 @@ function status = eval_code(status, token)
         status = eval_code_table(status, token, result);
     else
         status = replace_text(status, token, ...
-            ['@mmd_ERROR: Bad eval result ' script]);
+            ['$mmd_ERROR: Bad eval result ' script]);
     end
 end
 % -------------------------------------------------------------------------

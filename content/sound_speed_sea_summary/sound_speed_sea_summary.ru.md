@@ -23,6 +23,6 @@
 2008 | Лерой и др.   | $-1-30$ | $0-42$      | $0-12000$ | $0-12400$   | $0.2$
 
 ## Использованная литература
-1. ![@mmd_print_reference]($/reference/etter2018underwater.enw)
-1. ![@mmd_print_reference]($/reference/millero1994equations.enw)
+1. ![$mmd_print_reference]($/reference/etter2018underwater.enw)
+1. ![$mmd_print_reference]($/reference/millero1994equations.enw)
   
