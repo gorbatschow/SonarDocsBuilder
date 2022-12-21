@@ -1,4 +1,4 @@
-# Sound speed in pure water. Bilaniuk & Wong 36 point equation
+# Sound speed in pure water. Bilaniuk & Wong 148 point equation
 
 ## Mathematical definition
 
