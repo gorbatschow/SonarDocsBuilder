@@ -1,4 +1,4 @@
-Notation | Description | Conversion | Units | Limits
+Notation | Description | Units | Conversion | Limits
 --- | --- | --- | --- | ---
-$\alpha$ | absorption   | $\times 1.0936$| $dB/km$ |
-$f$      | frequency    | | $kHz$        | $f < 50$
+$\alpha$ | absorption   | $dB/km$ | $\times 1.0936$ |
+$f$      | frequency    | $kHz$   | | $f < 50$

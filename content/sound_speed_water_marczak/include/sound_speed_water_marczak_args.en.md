@@ -1,4 +1,4 @@
-Notation | Description | Conversion | Units | Limits
+Notation | Description | Units | Conversion| Limits
 --- | --- | --- | --- | ---
-$C$ | sound speed | | $m/s$
-$T$ | temperature | | $^{\\circ}C$ | $0 < T < 95$
+$C$ | sound speed | $m/s$ | |
+$T$ | temperature | $^{\\circ}C$ | | $0 < T < 95$
