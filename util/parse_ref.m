@@ -82,7 +82,7 @@ function [entry, ok] = parse_ref(fname)
         end
         entry.id = [entry.id title_curr];
     end
-    ers = {',' '.' ':' ';' '!' '-'  ' '};
+    ers = {',' '.' ':' ';' '!' '-'  ' ' char("'")};
     for i = 1:numel(ers)
         entry.id = erase(entry.id, ers{i});
     end
