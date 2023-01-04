@@ -26,3 +26,4 @@
 ## References
 
 1. ![$mmd_print_reference]($/reference/del1974equation.enw)
+1. ![$mmd_print_reference]($/reference/wong1995speed.enw)
