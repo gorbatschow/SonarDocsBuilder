@@ -25,7 +25,7 @@ function update_mkdocs(lastn)
         return
     end
 
-    [~,idx] = sort({file_list.date});
+    [~,idx] = sort([file_list.datenum]);
     file_list = file_list(flip(idx));
     
     if nargin < 1
