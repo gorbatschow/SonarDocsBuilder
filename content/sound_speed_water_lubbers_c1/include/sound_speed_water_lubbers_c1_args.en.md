@@ -1,4 +1,4 @@
-Notation | Description | Units | Conversion | Limits
---- | --- | --- | --- | ---
-$C$ | sound speed | $m/s$ | |
-$T$ | temperature | $^{\\circ}C$ | | $10 < T < 40$
+Notation | Description | Units | Limits
+--- | --- | --- | ---
+$C$ | sound speed | $\text{m/s}$
+$T$ | temperature | $^{\\circ}\text{C}$ | $10 < T < 40$

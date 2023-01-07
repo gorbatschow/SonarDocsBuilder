@@ -1,6 +1,6 @@
-Notation | Description | Units | Conversion | Limits
+Notation | Description | Units | Limits | Conversion
 --- | --- | --- | --- | ---
-$C$ | sound speed | $m/s$ |
-$T$ | temperature | $^{\\circ}C$ | | $0 < T < 35$
-$S$ | salinity | $\‰$ | | $29 < S < 43$
-$P$ | pressure | $kPa$ | $\times 1.019716 \times 10^{-2}$ | $0 < P < 98000$
+$C$ | sound speed | $\text{m/s}$
+$T$ | temperature | $^{\\circ}\text{C}$ | $0 < T < 35$
+$S$ | salinity | $\text{‰}$  | $29 < S < 43$
+$P$ | pressure | $\text{kPa}$ | $0 < P < 98000$ | $= P \times 1.019716 \times 10^{-2}$ $\text{at}$

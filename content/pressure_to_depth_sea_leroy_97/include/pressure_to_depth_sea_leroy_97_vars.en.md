@@ -1,3 +1,3 @@
-Notation | Description | Units | Conversion | Limits
---- | --- | --- | --- | ---
-$g\left( \phi  \right)$ | Gravity | $ms^{-2}$ |  |
+Notation | Description | Units
+--- | --- | ---
+$g\left( \phi  \right)$ | gravity | $\text{ms}^{-2}$

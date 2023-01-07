@@ -1,5 +1,5 @@
-Notation | Description | Units | Conversion | Limits
+Notation | Description | Units | Limits | Conversion
 --- | --- | --- | --- | ---
-$P$    | Pressure | $kPa$  | $\times 10^{3}$    
-$Z$    | Depth    | $m$    | |
-$\phi$ | Latitude | $deg$  | | $-90\ < \phi < 90$
+$P$    | pressure | $\text{kPa}$  | | $=P \left[\text{MPa}\right] \times 10^{3}$
+$Z$    | depth    | $\text{m}$
+$\phi$ | latitude | $\text{deg.}$  | $-90\ < \phi < 90$

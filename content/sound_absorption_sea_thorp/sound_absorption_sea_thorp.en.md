@@ -14,8 +14,6 @@
 
 ![$mmd_eval_code]($/sonar_m/example/sound_absorption/sound_absorption_sea_thorp_ex_1.m)
 
-![$mmd_eval_code]($/sonar_m/example/sound_absorption/sound_absorption_sea_thorp_ex_2.m)
-
 ## References
 
 1. ![$mmd_print_reference]($/reference/thorp1967analytic.enw)

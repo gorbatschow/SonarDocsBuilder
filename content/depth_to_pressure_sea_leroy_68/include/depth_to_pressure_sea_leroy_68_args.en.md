@@ -1,5 +1,5 @@
-Notation | Description | Units | Conversion | Limits
+Notation | Description | Units | Limits | Conversion
 --- | --- | --- | --- | ---
-$P$    | Pressure | $kPa$  | $\times 9.80665 \times {10^1}$ |
-$Z$    | Depth    | $m$    | |
-$\phi$ | Latitude | $deg.$ | | $-90\ \le \phi \le 90$
+$P$    | pressure | $\text{kPa}$  | | $=P \left[ \text{kgf/cm}^{2} \right] \times 9.80665 \times 10^{1}$
+$Z$    | depth    | $\text{m}$
+$\phi$ | latitude | $\text{deg.}$ | $-90\ < \phi < 90$

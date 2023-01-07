@@ -1,4 +1,4 @@
-Area of applicability | Latitude | Expression for $\Delta P\left( Z \right)$, $mPa$ | Accuracy $\pm 10^{3} Pa$
+Area of applicability | Latitude | Expression for $\Delta P\left( Z \right)$, $\text{MPa}$ | Accuracy $\pm 10^{3}$, $\text{Pa}$
 --- | --- | --- | ---
 Common oceans              | $60^\circ N - 40^\circ S$ | $1.0 \times {10^{ - 2}}Z/\left( {Z + 100} \right) + 6.2 \times {10^{ - 6}}Z$  | $8$
 North Eastern Atlantic     | $30^\circ N - 35^\circ S$ | $8.0 \times {10^{ - 3}}Z/\left( {Z + 200} \right) + 4.0 \times {10^{ - 6}}Z$  | $3$

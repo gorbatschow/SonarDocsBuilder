@@ -1,4 +1,4 @@
-Area of applicability | Latitude | Expression for $\Delta Z\left( P \right)$, $m$ | Accuracy $\pm \text{m}$
+Area of applicability | Latitude | Expression for $\Delta Z\left( P \right)$, $\text{m}$  | Accuracy $\pm \text{m}$
 --- | --- | --- | ---
 Common oceans              | $60^\circ N - 40^\circ S$ | $P/\left( {P + 1} \right) + 5.7 \times {10^{ - 2}}P$    | $0.8$
 North Eastern Atlantic     | $30^\circ N - 35^\circ S$ | $P/\left( {P + 2} \right) + 3 \times {10^{ - 2}}P$      | $0.3$

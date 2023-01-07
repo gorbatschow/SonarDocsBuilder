@@ -30,3 +30,4 @@
 ![$mmd_eval_code]($/sonar_m/example/sound_absorption/sound_absorption_air_iso_ex_1.m)
 
 ## References
+1. ISO 9613-1 : Acoustics-Attenuation of sound during propagation outdoors-Part 1: Calculation of the absorption of sound by the atmosphere, (1993).

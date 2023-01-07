@@ -1,4 +1,4 @@
-Notation | Description | Units | Conversion | Limits
+Notation | Description | Units | Limits | Conversion
 --- | --- | --- | --- | ---
-$\alpha$ | absorption   | $dB/km$ | $\times 1.0936$ |
-$f$      | frequency    | $kHz$   | | $f < 50$
+$\alpha$ | absorption   | $\text{dB/km}$ | | $= \alpha \left[ \text{dB/kyd} \right] \times 1.0936$
+$f$      | frequency    | $\text{kHz}$   | $f < 50$
