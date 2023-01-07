@@ -6,19 +6,17 @@
 
 ![$mmd_print_markdown](include/sound_speed_air_cramer_args.en.md)
 
-![$mmd_print_markdown](include/sound_speed_air_cramer_coef.en.md)
-
 ![$mmd_print_equation](include/sound_speed_air_cramer_1.tex)
 
 ![$mmd_print_equation](include/sound_speed_air_cramer_2.tex)
 
 ![$mmd_print_equation](include/sound_speed_air_cramer_3.tex)
 
-![$mmd_print_markdown](include/sound_speed_air_cramer_coef_1.en.md)
-
-![$mmd_print_markdown](include/sound_speed_air_cramer_coef_2.en.md)
-
 ![$mmd_print_markdown](include/sound_speed_air_cramer_vars.en.md)
+
+![$mmd_print_markdown](include/sound_speed_air_cramer_coef.en.md)
+
+![$mmd_print_markdown](include/sound_speed_air_cramer_coef_1.en.md)
 
 ## Octave/Matlab implementation
 
