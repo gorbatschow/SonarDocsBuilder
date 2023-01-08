@@ -55,7 +55,7 @@ These tags are processed by scripts written in Octave/Matlab language. You can f
 If you don't have **MkDocs** installed look the next section. 
 
 ## Preparing MkDocs using Anaconda
-1. You already have an ![Anaconda](https://www.anaconda.com/).
+1. You already have ![Anaconda](https://www.anaconda.com/).
 1. Create environment
 `conda create --name sonardocs`
 1. Activate environment 
@@ -67,6 +67,7 @@ If you don't have **MkDocs** installed look the next section.
 1. Install **mkdocs-literate-nav** plugin for **MkDocs**
 `conda install -c conda-forge mkdocs-literate-nav`
 
+It is done, so now you can run `mkdocs serve`
 
 
 
