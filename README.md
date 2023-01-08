@@ -1,5 +1,5 @@
 # SonarDocsBuilder
-This repository contains **content templates** and scripts to generate documentation for ![Sonar.m]([https://github.com/gorbatschow/Sonar.m) toolbox. It is based on ![MkDocs](https://www.mkdocs.org/) static site generator.
+This repository contains **content templates** and scripts to generate documentation for ![Sonar.m](https://github.com/gorbatschow/Sonar.m) toolbox. It is based on ![MkDocs](https://www.mkdocs.org/) static site generator.
 You can see the result here https://gorbatschow.github.io/SonarDocs/  .
 
 ## Content template
